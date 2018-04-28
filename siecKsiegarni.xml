@@ -1,0 +1,46 @@
+
+<Siec nazwa="CiekaweKsiazki">
+
+	<Ksiegarnia adres="Aleje Jerozolimskie">
+	<Wlasciciel imie="Maja" nazwisko="Kowalska"></Wlasciciel>
+	<Ksiazka gatunek="Fantasy" autor="Brent Weeks" liczba="3">
+	Okaleczone oko
+	</Ksiazka>
+	<Ksiazka gatunek="Fantasy" autor="Brent Weeks" liczba="1">
+	Oślepiający nóż
+	</Ksiazka>
+	<Ksiazka gatunek="Fantasy" autor="Brent Weeks" liczba="2">
+	Czarny Pryzmat
+	</Ksiazka>
+	<Ksiazka gatunek="Fantasy" autor="Brent Weeks" liczba="5">
+	Krwawe Zwierciadło
+	</Ksiazka>
+	</Ksiegarnia>
+
+	<Ksiegarnia adres="3 Maja">
+	<Wlasciciel imie="Matylda" nazwisko="Jankowska"></Wlasciciel>
+	<Ksiazka gatunek="Fantasy" autor="Brent Weeks" liczba="1">
+	Czarny Pryzmat
+	</Ksiazka>
+	<Ksiazka gatunek="Fantasy" autor="Brent Weeks" liczba="2">
+	Krwawe Zwierciadło
+	</Ksiazka>
+	<Ksiazka gatunek="Klasyka" autor="Jane Austen" liczba="3">
+	Duma i uprzedzenie
+	</Ksiazka>
+	</Ksiegarnia>
+
+	<Ksiegarnia adres="Marywilska">
+	<Wlasciciel imie="Jan" nazwisko="Nowak"></Wlasciciel>
+	<Ksiazka gatunek="Fantasy" autor="Brent Weeks">
+	Okaleczone oko
+	</Ksiazka>
+	<Ksiazka gatunek="Fantasy" autor="Brent Weeks">
+	Oślepiający nóż
+	</Ksiazka>
+	<Ksiazka gatunek="Klasyka" autor="Jane Austen">
+	Duma i uprzedzenie
+	</Ksiazka>
+	</Ksiegarnia>
+
+</Siec>
